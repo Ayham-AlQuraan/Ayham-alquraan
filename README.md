@@ -46,6 +46,7 @@
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Machine--Learning--Projects-blue?logo=github)](https://github.com/Ayham-AlQuraan/Machine-Learning-Projects)
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Intrusion--Detection--System-blue?logo=github)](https://github.com/Ayham-AlQuraan/Intrusion-Detection-System)
 
 
 📢 Open to **AI, ML, and cybersecurity collaborations**!
