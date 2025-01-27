@@ -33,7 +33,7 @@
 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ayham-al-quraan-199397268/)  
 📂 **Portfolio Website (Coming Soon!)**  
 📩 **Email:** [Ayhamquraan2003@gmail.com]  
-🚀 **GitHub:** [github.com/your-username](https://github.com/Ayham-AlQuraan/Ayham-alquraan)
+🚀 **GitHub:** [github.com](https://github.com/Ayham-AlQuraan/Ayham-alquraan)
 
 ---
 
