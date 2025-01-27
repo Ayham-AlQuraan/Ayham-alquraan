@@ -38,9 +38,10 @@
 ---
 
 ### 📌 Pinned Repositories
-👀 Make sure to **pin** your top repositories in GitHub!  
-📌 **[Intrusion Detection System with AutoML](https://github.com/your-repo-link)**  
-📌 **[Facial Recognition with CNN](https://github.com/your-repo-link)**  
-📌 **[TPOT & Auto-Sklearn Optimization](https://github.com/your-repo-link)**  
+📌 ## 🔗 Project Repository
+
+📌[![GitHub Repo](https://img.shields.io/badge/GitHub-AIAB--Reinforcement--Learning-blue?logo=github)](https://github.com/Ayham-AlQuraan/AIAB-Reinforcement-Learning)
+
+
 
 📢 Open to **AI, ML, and cybersecurity collaborations**!
