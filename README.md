@@ -40,7 +40,10 @@
 ### 📌 Pinned Repositories
 📌 ## 🔗 Project Repository
 
-📌[![GitHub Repo](https://img.shields.io/badge/GitHub-AIAB--Reinforcement--Learning-blue?logo=github)](https://github.com/Ayham-AlQuraan/AIAB-Reinforcement-Learning)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-AIAB--Reinforcement--Learning-blue?logo=github)](https://github.com/Ayham-AlQuraan/AIAB-Reinforcement-Learning)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Face--Alignment--CNN-blue?logo=github)](https://github.com/Ayham-AlQuraan/Face-Alignment-CNN)
+
 
 
 
