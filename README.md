@@ -44,6 +44,7 @@
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Face--Alignment--CNN-blue?logo=github)](https://github.com/Ayham-AlQuraan/Face-Alignment-CNN)
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Machine--Learning--Projects-blue?logo=github)](https://github.com/Ayham-AlQuraan/Machine-Learning-Projects)
 
 
 
